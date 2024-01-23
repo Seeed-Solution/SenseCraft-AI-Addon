@@ -1,8 +1,8 @@
-name: "SSCMA"
+name: "SenseCraft"
 description: "SenseCraft Model Assistant"
 url: "https://github.com/Seeed-Studio/SenseCraft-Web-Toolkit"
 version: "1.0.0"
-slug: "sscma"
+slug: "sensecraft"
 init: false
 arch:
   - aarch64
