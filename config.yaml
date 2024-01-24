@@ -13,7 +13,10 @@ arch:
 startup: application
 ports:
   443/tcp: 443
-  8000/tcp: 8000
+  8000/tcp: 9527
+ports_description:
+  443/tcp: SenseCraft Web Toolkit port
+  8000/tcp: SenseCraft API port
 webui: "https://[HOST]:[PORT:443]"
 panel_icon: mdi:cloud
 options: {}
